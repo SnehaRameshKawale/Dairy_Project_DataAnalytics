@@ -88,4 +88,5 @@ This project is intended for educational and portfolio use.
 If you use or share this project, please **credit the original author**.
 
 ---
+![Dashboard image] = (https://github.com/SnehaRameshKawale/Dairy_Project_DataAnalytics/blob/main/Dairy_Dashboard_img.png)
 
